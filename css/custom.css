@@ -1,0 +1,21 @@
+.intro-txt
+{
+
+    font-family: 'Lobster', cursive;
+    font-size: 74px;
+    text-shadow: 4px 4px 4px #111111;
+    text-align: center;
+}
+.intro-sub-txt
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+body
+
+{
+    background: #313841;
+}
+
+
